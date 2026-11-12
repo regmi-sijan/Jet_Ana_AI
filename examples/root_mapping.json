@@ -1,0 +1,6 @@
+{
+  "event_id": "event_id",
+  "energy": "cluster_energy",
+  "eta": "cluster_eta",
+  "phi": "cluster_phi"
+}

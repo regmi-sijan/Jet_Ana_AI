@@ -1,0 +1,5 @@
+event_id,split,split_group
+run42_evt1,train,run42
+run42_evt2,train,run42
+run43_evt1,val,run43
+run44_evt1,test,run44
